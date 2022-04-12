@@ -6,5 +6,9 @@ to convert curriences.
 In this Website I use free servers(https://free.currconv.com) & also for Ultra compact, multiple queries(/api/v7/convert?q=USD_PHP,PHP_USD&compact=ultra&apiKey=[YOUR_API_KEY])
 combine both for use "https://free.currconv.com/api/v7/convert?q=USD_PHP,PHP_USD&compact=ultra&apiKey=[YOUR_API_KEY]" when you enter your api key it will give you an object
 of converted currency.
+I used Telegram also for bot this image is below.......
+
+
+
 
 ![Screenshot (542)](https://user-images.githubusercontent.com/89704794/162917746-297e12b5-c846-40f6-a74f-d89a34a8f509.png)

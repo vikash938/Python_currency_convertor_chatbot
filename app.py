@@ -21,7 +21,7 @@ def index():
 # Fetching data through the Currencyconverter API 
 def fetch_conversion_factor(source,target):
 
-    url = f"https://free.currconv.com/api/v7/convert?q={source}_{target}&compact=ultra&apiKey=febac1b8eeda64611df4"
+    url = f"https://free.currconv.com/api/v7/convert?q={source}_{target}&compact=ultra&apiKey=(add your api key here)"
 
     response = requests.get(url)
     response = response.json()
